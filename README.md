@@ -4,7 +4,7 @@
 
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
 
-- Farklı HTML ve CSS kaynaklarını araştırarak linkleri ekleyiniz.
+- Farklı [HTML](https://html.sitesi.web.tr/) ve [CSS](https://css.sitesi.web.tr/) kaynaklarını araştırarak linkleri ekleyiniz.
 
 - Freecodecamp'teki HTML5 eğitimine başlayınız.
 
