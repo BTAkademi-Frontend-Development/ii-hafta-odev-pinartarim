@@ -12,8 +12,8 @@
 
 - HTML5 yenilikleri nelerdir?
 
-- HTML'de [SVG] (https://www.w3schools.com/html/html5_svg.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp) ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
+- HTML'de [SVG](https://www.w3schools.com/html/html5_svg.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp) ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
 
-- [HTML Encode](https://emn178.github.io/online-tools/html_encode.html) ve [URL Encode] (https://emn178.github.io/online-tools/url_encode.html) konularını araştırınız.
+- [HTML Encode](https://emn178.github.io/online-tools/html_encode.html) ve [URL Encode](https://emn178.github.io/online-tools/url_encode.html) konularını araştırınız.
  
 - HTML Form'u kullanarak bir örnek oluşturunuz. Örnekleri Github reposuna ekleyiniz. [Form için bir kaynak örneğini görmek için tıklayınız.](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) --done
