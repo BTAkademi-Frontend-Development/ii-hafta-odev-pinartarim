@@ -12,7 +12,7 @@
 
 - HTML5 yenilikleri nelerdir?
 
-- [HTML'de SVG] (https://www.w3schools.com/html/html5_svg.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp) ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
+- HTML'de [SVG] (https://www.w3schools.com/html/html5_svg.asp), [Canvas](https://www.w3schools.com/html/html5_canvas.asp) ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
 
 - [HTML Encode](https://emn178.github.io/online-tools/html_encode.html) ve [URL Encode] (https://emn178.github.io/online-tools/url_encode.html) konularını araştırınız.
  
